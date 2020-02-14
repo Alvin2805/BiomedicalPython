@@ -53,5 +53,4 @@ def FreqOri(rrdata,fs):
 	plt.ylim([0,5])
 	plt.show()
 	
-	return VLF,LF,HF,TP,LFHF
-	
+	return VLF,LF,HF,TP,LFHF # output of bandpower interval
